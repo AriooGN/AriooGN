@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arian Fooladray</h1>
+<h1 align="center">Hi 👋, I'm Arian</h1>
 <h3 align="center">3rd Year Computer Engineering Student | Game Developer | Tech Enthusiast</h3>
 <p align="center">
   <a href="https://github.com/ArianFooladray"><img src="https://komarev.com/ghpvc/?username=ArianFooladray&label=Profile%20views&color=0e75b6&style=flat" alt="ArianFooladray" /></a>
