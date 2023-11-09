@@ -15,11 +15,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/arian-fooladray-723ab9244/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Arian Fooladray"/></a>
-  <a href="https://leetcode.com/ArianFooladray/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ArianFooladray"/></a>
-  <a href="https://www.arianfooladray.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <!-- Add more social links as needed -->
+  <a href="https://www.linkedin.com/in/arian-fooladray-723ab9244/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://leetcode.com/ArianFooladray/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>&nbsp;
+  <a href="https://www.arianfooladray.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </p>
+
 
 <h3 align="center">Languages:</h3>
 <p align="center">
