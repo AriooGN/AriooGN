@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
 <h3 align="center">3rd Year Computer Engineering Student | Game Developer | Tech Enthusiast</h3>
 <p align="center">
-  <a href="https://github.com/ArianFooladray"><img src="https://komarev.com/ghpvc/?username=ArianFooladray&label=Profile%20views&color=0e75b6&style=flat" alt="ArianFooladray" /></a>
+  <a href="https://github.com/arioogn"><img src="https://komarev.com/ghpvc/?username=arioogn&label=Profile%20views&color=0e75b6&style=flat" alt="arioogn" /></a>
 </p>
 
 - 🔭 I’m currently working on [Unity-based games](https://www.arianfooladray.com/projects/unity) and [Python projects](https://www.arianfooladray.com/projects/python)
