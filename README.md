@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on [Unity-based games](https://www.arianfooladray.com/projects/unity) and [Python projects](https://www.arianfooladray.com/projects/python)
-- 🌱 I’m currently learning **Database Systems, Signals and Systems**
+- 🌱 I’m currently learning **HTML,CSS,JS,Software Analysis**
 - 👯 I’m looking to collaborate on **innovative open-source projects**
 - 🤝 I’m looking for help with **securing a software development internship**
 - 💬 Ask me about **Java, C, C#, Python, and Assembly (HCS12)**
