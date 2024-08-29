@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on **innovative open-source projects**
 - 🤝 I’m looking for help with **securing a software development internship**
 - 💬 Ask me about **Unity, Java, C, C#, Python, and Assembly (HCS12)**
-- 🌐 Visit my website: [arianfooladray.com](https://www.arianfooladray.com)
 
 <hr>
 
