@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
-<h3 align="center">3rd Year Computer Engineering Student | Game Developer | Tech Enthusiast</h3>
+<h3 align="center">4rth Year Computer Engineering Student | Game Developer | Tech Enthusiast</h3>
 <p align="center">
   <a href="https://github.com/arioogn"><img src="https://komarev.com/ghpvc/?username=arioogn&label=Profile%20views&color=0e75b6&style=flat" alt="arioogn" /></a>
 </p>
 
 - 🔭 I’m currently working on [Unity-based games](https://www.arianfooladray.com/projects/unity) and a Web project
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **innovative open-source projects**
-- 🤝 I’m looking for help with **securing a software development internship**
+- 🤝 I’m looking for help with **securing a full time software development role**
 - 💬 Ask me about **Unity, Java, C, C#, Python, and Assembly (HCS12)**
 
 <hr>
