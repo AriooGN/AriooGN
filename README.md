@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
-<h3 align="center">4th Year Computer Engineering Student | Automation & Backend | Game Developer</h3>
+<h3 align="center">4th Year Computer Engineering Student</h3>
 <p align="center">
   <a href="https://github.com/AriooGN"><img src="https://komarev.com/ghpvc/?username=AriooGN&label=Profile%20views&color=0e75b6&style=flat" alt="AriooGN" /></a>
 </p>
 
 - 🔭 I’m currently working on [Unity-based games](https://www.arianfooladray.com/projects/unity), a **FastAPI / cloud-oriented** backend project, and **React** UI work
 - 🌱 I’m currently learning **React**, **Playwright**, and **GCP** patterns (Cloud Run, Cloud SQL)
-- 👯 I’m looking to collaborate on **open-source** tools around **automation, APIs, and developer experience**
+- 👯 I’m looking to collaborate on **open-source** tools
 - 🤝 I’m looking for **full-time software / automation / backend** roles
 - 💬 Ask me about **Unity, C#, Python, Java, automation (Selenium, Playwright, PyAutoGUI), and ServiceNow / Power Platform**
 
