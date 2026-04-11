@@ -55,7 +55,5 @@
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriooGN&show_icons=true&locale=en&theme=dark" alt="AriooGN" width="495px"/></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AriooGN&theme=dark" alt="AriooGN" /></p>
 <p align="center"><a href="https://leetcode.com/ArianFooladray/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/ArianFooladray?theme=dark&font=Monda&ext=activity" /></a></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AriooGN&show_icons=true&locale=en&theme=dark" alt="AriooGN" /></p>
