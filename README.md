@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="html" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="90"/>&nbsp;
@@ -38,12 +36,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />&nbsp;
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-</p>
-
-<h3 align="center">Hardware Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Multisim-054ADA?style=flat-square" alt="Multisim" />&nbsp;
-  <img src="https://img.shields.io/badge/Quartus-68A063?style=flat-square" alt="Quartus" />
 </p>
 
 <h3 align="center">Software Modeling:</h3>
@@ -61,13 +53,6 @@
   <img src="https://img.shields.io/badge/Visual_Paradigm-394775?style=flat-square" alt="Visual Paradigm" />&nbsp;
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />&nbsp;
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
-</p>
-
-<h3 align="center">Operating Systems:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />&nbsp;
-  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white" alt="MacOS" />&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriooGN&show_icons=true&locale=en&theme=dark" alt="AriooGN" width="495px"/></p>
