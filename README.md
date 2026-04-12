@@ -56,4 +56,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AriooGN&theme=dark" alt="AriooGN" /></p>
-<p align="center"><a href="https://leetcode.com/ArianFooladray/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/ArianFooladray?theme=dark&font=Monda&ext=activity" /></a></p>
