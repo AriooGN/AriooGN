@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
-<h3 align="center">4th Year Computer Engineering Student</h3>
+<h3 align="center">5th Year Computer Engineering Student</h3>
 <p align="center">
   <a href="https://github.com/AriooGN"><img src="https://komarev.com/ghpvc/?username=AriooGN&label=Profile%20views&color=0e75b6&style=flat" alt="AriooGN" /></a>
 </p>
