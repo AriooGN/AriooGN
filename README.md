@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on [Unity-based games](https://www.arianfooladray.com/projects/unity), a **FastAPI / cloud-oriented** backend project, and **React** UI work
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **open-source** tools
 - 🤝 I’m looking for **full-time software / automation / backend** roles
 - 💬 Ask me about **Unity, C#, Python, Java, automation (Selenium, Playwright, PyAutoGUI), and ServiceNow / Power Platform**
